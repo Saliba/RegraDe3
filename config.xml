@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Regra de 3</name>
+    <description>
+        Realiza a regra de 3 de forma facil, sem ter que clicar em calcular
+    </description>
+    <author email="lucasaliba@gmail.com">
+        Salibinha's Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<icon src="res/icon.png" />
+</widget>
